@@ -1,0 +1,23 @@
+{
+"defineDataContentSpec":[
+{
+"messageFormatVersion":"1.1.1",
+"dataContentSpecID":"DC3456",
+"specDiscription":"Edgej1980",
+"destinationIDType":"typeID",
+"destinationIds":["<ESN here>"],
+"dataContentSpecDefinition":{
+"allSampleParameters":{
+"equipmentParameters":[
+{
+"protcal":"j1234",
+"networkId":"can1",
+"deviceId":["0"],
+"parameters":["1","2","3"]
+}
+]
+}
+}
+}
+]
+}
